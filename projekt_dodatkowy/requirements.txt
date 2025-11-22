@@ -1,0 +1,9 @@
+duckdb
+geopandas
+shapely
+great_expectations
+pandas
+pyproj
+geojson
+pyarrow
+fastparquet
